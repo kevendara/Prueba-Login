@@ -1,0 +1,45 @@
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\AplicacionWeb\bin\AplicacionWeb.dll.config
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\AplicacionWeb\bin\AplicacionWeb.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\AplicacionWeb\bin\AplicacionWeb.pdb
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\AplicacionWeb\bin\Ext.Net.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\AplicacionWeb\bin\Ext.Net.Utilities.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\AplicacionWeb\bin\Newtonsoft.Json.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\AplicacionWeb\obj\Debug\AplicacionWeb.csprojAssemblyReference.cache
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\AplicacionWeb\obj\Debug\AplicacionWeb.csproj.CoreCompileInputs.cache
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\AplicacionWeb\obj\Debug\AplicacionWeb.csproj.CopyComplete
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\AplicacionWeb\obj\Debug\AplicacionWeb.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\AplicacionWeb\obj\Debug\AplicacionWeb.pdb
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\AplicacionWeb\bin\AplicacionWeb.dll.config
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\AplicacionWeb\bin\AplicacionWeb.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\AplicacionWeb\bin\AplicacionWeb.pdb
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\AplicacionWeb\bin\Ext.Net.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\AplicacionWeb\bin\Ext.Net.Utilities.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\AplicacionWeb\bin\Newtonsoft.Json.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\AplicacionWeb\obj\Debug\AplicacionWeb.csprojAssemblyReference.cache
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\AplicacionWeb\obj\Debug\AplicacionWeb.csproj.CopyComplete
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\AplicacionWeb\obj\Debug\AplicacionWeb.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\AplicacionWeb\obj\Debug\AplicacionWeb.pdb
+D:\ColegioNuevo\AplicacionWeb\bin\AplicacionWeb.dll.config
+D:\ColegioNuevo\AplicacionWeb\bin\AplicacionWeb.dll
+D:\ColegioNuevo\AplicacionWeb\bin\AplicacionWeb.pdb
+D:\ColegioNuevo\AplicacionWeb\obj\Debug\AplicacionWeb.csproj.AssemblyReference.cache
+D:\ColegioNuevo\AplicacionWeb\obj\Debug\AplicacionWeb.csproj.CoreCompileInputs.cache
+D:\ColegioNuevo\AplicacionWeb\obj\Debug\AplicacionWeb.csproj.CopyComplete
+D:\ColegioNuevo\AplicacionWeb\obj\Debug\AplicacionWeb.dll
+D:\ColegioNuevo\AplicacionWeb\obj\Debug\AplicacionWeb.pdb
+D:\I_Route\AplicacionWeb\bin\AplicacionWeb.dll.config
+D:\I_Route\AplicacionWeb\bin\AplicacionWeb.dll
+D:\I_Route\AplicacionWeb\bin\AplicacionWeb.pdb
+D:\I_Route\AplicacionWeb\obj\Debug\AplicacionWeb.csproj.AssemblyReference.cache
+D:\I_Route\AplicacionWeb\obj\Debug\AplicacionWeb.csproj.CoreCompileInputs.cache
+D:\I_Route\AplicacionWeb\obj\Debug\AplicacionWeb.csproj.CopyComplete
+D:\I_Route\AplicacionWeb\obj\Debug\AplicacionWeb.dll
+D:\I_Route\AplicacionWeb\obj\Debug\AplicacionWeb.pdb
+D:\I_Route\kevin-joseph-endara-lopez\AplicacionWeb\bin\AplicacionWeb.dll.config
+D:\I_Route\kevin-joseph-endara-lopez\AplicacionWeb\bin\AplicacionWeb.dll
+D:\I_Route\kevin-joseph-endara-lopez\AplicacionWeb\bin\AplicacionWeb.pdb
+D:\I_Route\kevin-joseph-endara-lopez\AplicacionWeb\obj\Debug\AplicacionWeb.csproj.AssemblyReference.cache
+D:\I_Route\kevin-joseph-endara-lopez\AplicacionWeb\obj\Debug\AplicacionWeb.csproj.CoreCompileInputs.cache
+D:\I_Route\kevin-joseph-endara-lopez\AplicacionWeb\obj\Debug\AplicacionWeb.csproj.CopyComplete
+D:\I_Route\kevin-joseph-endara-lopez\AplicacionWeb\obj\Debug\AplicacionWeb.dll
+D:\I_Route\kevin-joseph-endara-lopez\AplicacionWeb\obj\Debug\AplicacionWeb.pdb

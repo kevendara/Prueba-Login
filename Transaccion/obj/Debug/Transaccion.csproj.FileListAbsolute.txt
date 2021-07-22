@@ -1,0 +1,134 @@
+C:\Users\diego\source\repos\NCapas\Transaccion\bin\Debug\Transaccion.dll
+C:\Users\diego\source\repos\NCapas\Transaccion\bin\Debug\Transaccion.pdb
+C:\Users\diego\source\repos\NCapas\Transaccion\bin\Debug\Entidades.dll
+C:\Users\diego\source\repos\NCapas\Transaccion\bin\Debug\Servicio.dll
+C:\Users\diego\source\repos\NCapas\Transaccion\bin\Debug\Repositorio.dll
+C:\Users\diego\source\repos\NCapas\Transaccion\bin\Debug\Core.dll
+C:\Users\diego\source\repos\NCapas\Transaccion\bin\Debug\EntityFramework.dll
+C:\Users\diego\source\repos\NCapas\Transaccion\bin\Debug\Contexto.dll
+C:\Users\diego\source\repos\NCapas\Transaccion\bin\Debug\Entidades.pdb
+C:\Users\diego\source\repos\NCapas\Transaccion\bin\Debug\Entidades.dll.config
+C:\Users\diego\source\repos\NCapas\Transaccion\bin\Debug\Servicio.pdb
+C:\Users\diego\source\repos\NCapas\Transaccion\bin\Debug\Servicio.dll.config
+C:\Users\diego\source\repos\NCapas\Transaccion\bin\Debug\Repositorio.pdb
+C:\Users\diego\source\repos\NCapas\Transaccion\bin\Debug\Repositorio.dll.config
+C:\Users\diego\source\repos\NCapas\Transaccion\bin\Debug\Core.pdb
+C:\Users\diego\source\repos\NCapas\Transaccion\bin\Debug\EntityFramework.xml
+C:\Users\diego\source\repos\NCapas\Transaccion\bin\Debug\Contexto.pdb
+C:\Users\diego\source\repos\NCapas\Transaccion\bin\Debug\Contexto.dll.config
+C:\Users\diego\source\repos\NCapas\Transaccion\obj\Debug\Transaccion.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\NCapas\Transaccion\obj\Debug\Transaccion.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\NCapas\Transaccion\obj\Debug\Transaccion.csproj.CopyComplete
+C:\Users\diego\source\repos\NCapas\Transaccion\obj\Debug\Transaccion.dll
+C:\Users\diego\source\repos\NCapas\Transaccion\obj\Debug\Transaccion.pdb
+C:\Users\diego\source\repos\NCapas\Transaccion\bin\Debug\Transaccion.dll.config
+C:\Users\diego\source\repos\NCapas\Transaccion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\diego\source\repos\NCapas\Transaccion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\diego\source\repos\NCapas\Transaccion\bin\Debug\Core.dll.config
+D:\Practivas -Pre-profesionales\Apps\NCapas\Transaccion\bin\Debug\Transaccion.dll.config
+D:\Practivas -Pre-profesionales\Apps\NCapas\Transaccion\bin\Debug\Transaccion.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\Transaccion\bin\Debug\Transaccion.pdb
+D:\Practivas -Pre-profesionales\Apps\NCapas\Transaccion\bin\Debug\Entidades.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\Transaccion\bin\Debug\EntityFramework.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\Transaccion\bin\Debug\EntityFramework.SqlServer.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\Transaccion\bin\Debug\Servicio.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\Transaccion\bin\Debug\Repositorio.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\Transaccion\bin\Debug\Core.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\Transaccion\bin\Debug\Contexto.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\Transaccion\bin\Debug\Entidades.pdb
+D:\Practivas -Pre-profesionales\Apps\NCapas\Transaccion\bin\Debug\Entidades.dll.config
+D:\Practivas -Pre-profesionales\Apps\NCapas\Transaccion\bin\Debug\Servicio.pdb
+D:\Practivas -Pre-profesionales\Apps\NCapas\Transaccion\bin\Debug\Servicio.dll.config
+D:\Practivas -Pre-profesionales\Apps\NCapas\Transaccion\bin\Debug\EntityFramework.xml
+D:\Practivas -Pre-profesionales\Apps\NCapas\Transaccion\bin\Debug\EntityFramework.SqlServer.xml
+D:\Practivas -Pre-profesionales\Apps\NCapas\Transaccion\bin\Debug\Repositorio.pdb
+D:\Practivas -Pre-profesionales\Apps\NCapas\Transaccion\bin\Debug\Repositorio.dll.config
+D:\Practivas -Pre-profesionales\Apps\NCapas\Transaccion\bin\Debug\Core.pdb
+D:\Practivas -Pre-profesionales\Apps\NCapas\Transaccion\bin\Debug\Core.dll.config
+D:\Practivas -Pre-profesionales\Apps\NCapas\Transaccion\bin\Debug\Contexto.pdb
+D:\Practivas -Pre-profesionales\Apps\NCapas\Transaccion\bin\Debug\Contexto.dll.config
+D:\Practivas -Pre-profesionales\Apps\NCapas\Transaccion\obj\Debug\Transaccion.csprojAssemblyReference.cache
+D:\Practivas -Pre-profesionales\Apps\NCapas\Transaccion\obj\Debug\Transaccion.csproj.CoreCompileInputs.cache
+D:\Practivas -Pre-profesionales\Apps\NCapas\Transaccion\obj\Debug\Transaccion.csproj.CopyComplete
+D:\Practivas -Pre-profesionales\Apps\NCapas\Transaccion\obj\Debug\Transaccion.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\Transaccion\obj\Debug\Transaccion.pdb
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Transaccion.dll.config
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Transaccion.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Transaccion.pdb
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Entidades.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\EntityFramework.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\EntityFramework.SqlServer.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Servicio.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Repositorio.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Core.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Contexto.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Entidades.pdb
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Entidades.dll.config
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Servicio.pdb
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Servicio.dll.config
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\EntityFramework.xml
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\EntityFramework.SqlServer.xml
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Repositorio.pdb
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Repositorio.dll.config
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Core.pdb
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Core.dll.config
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Contexto.pdb
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Contexto.dll.config
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\obj\Debug\Transaccion.csprojAssemblyReference.cache
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\obj\Debug\Transaccion.csproj.CoreCompileInputs.cache
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\obj\Debug\Transaccion.csproj.CopyComplete
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\obj\Debug\Transaccion.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\obj\Debug\Transaccion.pdb
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Transaccion.dll.config
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Transaccion.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Transaccion.pdb
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Entidades.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\EntityFramework.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\EntityFramework.SqlServer.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Servicio.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Repositorio.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Core.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Contexto.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Entidades.pdb
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Entidades.dll.config
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Servicio.pdb
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Servicio.dll.config
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\EntityFramework.xml
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\EntityFramework.SqlServer.xml
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Repositorio.pdb
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Repositorio.dll.config
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Core.pdb
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Core.dll.config
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Contexto.pdb
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\bin\Debug\Contexto.dll.config
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\obj\Debug\Transaccion.csprojAssemblyReference.cache
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\obj\Debug\Transaccion.csproj.CopyComplete
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\obj\Debug\Transaccion.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Transaccion\obj\Debug\Transaccion.pdb
+D:\ColegioNuevo\Transaccion\bin\Debug\Transaccion.dll.config
+D:\ColegioNuevo\Transaccion\bin\Debug\Transaccion.dll
+D:\ColegioNuevo\Transaccion\bin\Debug\Transaccion.pdb
+D:\ColegioNuevo\Transaccion\bin\Debug\Entidades.dll
+D:\ColegioNuevo\Transaccion\bin\Debug\EntityFramework.dll
+D:\ColegioNuevo\Transaccion\bin\Debug\EntityFramework.SqlServer.dll
+D:\ColegioNuevo\Transaccion\bin\Debug\Servicio.dll
+D:\ColegioNuevo\Transaccion\bin\Debug\Repositorio.dll
+D:\ColegioNuevo\Transaccion\bin\Debug\Core.dll
+D:\ColegioNuevo\Transaccion\bin\Debug\Contexto.dll
+D:\ColegioNuevo\Transaccion\bin\Debug\Entidades.pdb
+D:\ColegioNuevo\Transaccion\bin\Debug\Entidades.dll.config
+D:\ColegioNuevo\Transaccion\bin\Debug\Servicio.pdb
+D:\ColegioNuevo\Transaccion\bin\Debug\Servicio.dll.config
+D:\ColegioNuevo\Transaccion\bin\Debug\EntityFramework.xml
+D:\ColegioNuevo\Transaccion\bin\Debug\EntityFramework.SqlServer.xml
+D:\ColegioNuevo\Transaccion\bin\Debug\Repositorio.pdb
+D:\ColegioNuevo\Transaccion\bin\Debug\Repositorio.dll.config
+D:\ColegioNuevo\Transaccion\bin\Debug\Core.pdb
+D:\ColegioNuevo\Transaccion\bin\Debug\Core.dll.config
+D:\ColegioNuevo\Transaccion\bin\Debug\Contexto.pdb
+D:\ColegioNuevo\Transaccion\bin\Debug\Contexto.dll.config
+D:\ColegioNuevo\Transaccion\obj\Debug\Transaccion.csproj.AssemblyReference.cache
+D:\ColegioNuevo\Transaccion\obj\Debug\Transaccion.csproj.CoreCompileInputs.cache
+D:\ColegioNuevo\Transaccion\obj\Debug\Transaccion.csproj.CopyComplete
+D:\ColegioNuevo\Transaccion\obj\Debug\Transaccion.dll
+D:\ColegioNuevo\Transaccion\obj\Debug\Transaccion.pdb

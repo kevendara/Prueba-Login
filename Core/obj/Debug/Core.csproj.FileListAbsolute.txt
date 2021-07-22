@@ -1,0 +1,57 @@
+C:\Users\diego\source\repos\NCapas\Core\bin\Debug\Core.dll
+C:\Users\diego\source\repos\NCapas\Core\bin\Debug\Core.pdb
+C:\Users\diego\source\repos\NCapas\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\NCapas\Core\obj\Debug\Core.dll
+C:\Users\diego\source\repos\NCapas\Core\obj\Debug\Core.pdb
+C:\Users\diego\source\repos\NCapas\Core\bin\Debug\Core.dll.config
+C:\Users\diego\source\repos\NCapas\Core\bin\Debug\EntityFramework.dll
+C:\Users\diego\source\repos\NCapas\Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\diego\source\repos\NCapas\Core\bin\Debug\EntityFramework.xml
+C:\Users\diego\source\repos\NCapas\Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\diego\source\repos\NCapas\Core\obj\Debug\Core.csproj.CopyComplete
+D:\Practivas -Pre-profesionales\Apps\NCapas\Core\bin\Debug\Core.dll.config
+D:\Practivas -Pre-profesionales\Apps\NCapas\Core\bin\Debug\Core.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\Core\bin\Debug\Core.pdb
+D:\Practivas -Pre-profesionales\Apps\NCapas\Core\bin\Debug\EntityFramework.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\Core\bin\Debug\EntityFramework.xml
+D:\Practivas -Pre-profesionales\Apps\NCapas\Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Practivas -Pre-profesionales\Apps\NCapas\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\Practivas -Pre-profesionales\Apps\NCapas\Core\obj\Debug\Core.csproj.CopyComplete
+D:\Practivas -Pre-profesionales\Apps\NCapas\Core\obj\Debug\Core.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\Core\obj\Debug\Core.pdb
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Core\bin\Debug\Core.dll.config
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Core\bin\Debug\Core.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Core\bin\Debug\Core.pdb
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Core\bin\Debug\EntityFramework.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Core\bin\Debug\EntityFramework.xml
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Core\obj\Debug\Core.csprojAssemblyReference.cache
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Core\obj\Debug\Core.csproj.CopyComplete
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Core\obj\Debug\Core.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\Core\obj\Debug\Core.pdb
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Core\bin\Debug\Core.dll.config
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Core\bin\Debug\Core.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Core\bin\Debug\Core.pdb
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Core\bin\Debug\EntityFramework.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Core\bin\Debug\EntityFramework.xml
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Core\obj\Debug\Core.csproj.CopyComplete
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Core\obj\Debug\Core.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Core\obj\Debug\Core.pdb
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\Core\obj\Debug\Core.csprojAssemblyReference.cache
+D:\ColegioNuevo\Core\bin\Debug\Core.dll.config
+D:\ColegioNuevo\Core\bin\Debug\Core.dll
+D:\ColegioNuevo\Core\bin\Debug\Core.pdb
+D:\ColegioNuevo\Core\bin\Debug\EntityFramework.dll
+D:\ColegioNuevo\Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\ColegioNuevo\Core\bin\Debug\EntityFramework.xml
+D:\ColegioNuevo\Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\ColegioNuevo\Core\obj\Debug\Core.csproj.AssemblyReference.cache
+D:\ColegioNuevo\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+D:\ColegioNuevo\Core\obj\Debug\Core.csproj.CopyComplete
+D:\ColegioNuevo\Core\obj\Debug\Core.dll
+D:\ColegioNuevo\Core\obj\Debug\Core.pdb

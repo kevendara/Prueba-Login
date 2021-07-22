@@ -1,0 +1,184 @@
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\WcfColegio.dll.config
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\WcfColegio.dll
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\WcfColegio.pdb
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\Entidades.dll
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\Microsoft.Practices.Unity.dll
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\Transaccion.dll
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\Unity.Abstractions.dll
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\Unity.Container.dll
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\Unity.Interception.dll
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\Unity.ServiceLocation.dll
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\Unity.Wcf.dll
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\Servicio.dll
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\Repositorio.dll
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\Core.dll
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\EntityFramework.dll
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\Contexto.dll
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\Entidades.pdb
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\Entidades.dll.config
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\Transaccion.pdb
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\Servicio.pdb
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\Servicio.dll.config
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\Repositorio.pdb
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\Repositorio.dll.config
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\Core.pdb
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\EntityFramework.xml
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\Contexto.pdb
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\Contexto.dll.config
+C:\Users\diego\source\repos\NCapas\WcfColegio\obj\Debug\WcfColegio.csprojAssemblyReference.cache
+C:\Users\diego\source\repos\NCapas\WcfColegio\obj\Debug\WcfColegio.csproj.CoreCompileInputs.cache
+C:\Users\diego\source\repos\NCapas\WcfColegio\obj\Debug\WcfColegio.csproj.CopyComplete
+C:\Users\diego\source\repos\NCapas\WcfColegio\obj\Debug\WcfColegio.dll
+C:\Users\diego\source\repos\NCapas\WcfColegio\obj\Debug\WcfColegio.pdb
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\EntityFramework.SqlServer.dll
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\Transaccion.dll.config
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\EntityFramework.SqlServer.xml
+C:\Users\diego\source\repos\NCapas\WcfColegio\bin\Core.dll.config
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\WcfColegio.dll.config
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\WcfColegio.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\WcfColegio.pdb
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\Entidades.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\EntityFramework.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\EntityFramework.SqlServer.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\Microsoft.Practices.Unity.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\Transaccion.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\Unity.Abstractions.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\Unity.Container.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\Unity.Interception.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\Unity.ServiceLocation.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\Unity.Wcf.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\Servicio.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\Repositorio.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\Core.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\Contexto.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\Entidades.pdb
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\Entidades.dll.config
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\Transaccion.pdb
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\Transaccion.dll.config
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\EntityFramework.xml
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\EntityFramework.SqlServer.xml
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\Servicio.pdb
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\Servicio.dll.config
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\Repositorio.pdb
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\Repositorio.dll.config
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\Core.pdb
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\Core.dll.config
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\Contexto.pdb
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\bin\Contexto.dll.config
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\obj\Debug\WcfColegio.csprojAssemblyReference.cache
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\obj\Debug\WcfColegio.csproj.CoreCompileInputs.cache
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\obj\Debug\WcfColegio.csproj.CopyComplete
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\obj\Debug\WcfColegio.dll
+D:\Practivas -Pre-profesionales\Apps\NCapas\WcfColegio\obj\Debug\WcfColegio.pdb
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\WcfColegio.dll.config
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\WcfColegio.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\WcfColegio.pdb
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Entidades.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\EntityFramework.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\EntityFramework.SqlServer.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Microsoft.Practices.Unity.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Transaccion.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Unity.Abstractions.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Unity.Container.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Unity.Interception.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Unity.ServiceLocation.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Unity.Wcf.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Servicio.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Repositorio.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Core.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Contexto.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Entidades.pdb
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Entidades.dll.config
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Transaccion.pdb
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Transaccion.dll.config
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\EntityFramework.xml
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\EntityFramework.SqlServer.xml
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Servicio.pdb
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Servicio.dll.config
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Repositorio.pdb
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Repositorio.dll.config
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Core.pdb
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Core.dll.config
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Contexto.pdb
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Contexto.dll.config
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\obj\Debug\WcfColegio.csprojAssemblyReference.cache
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\obj\Debug\WcfColegio.csproj.CoreCompileInputs.cache
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\obj\Debug\WcfColegio.csproj.CopyComplete
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\obj\Debug\WcfColegio.dll
+D:\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\obj\Debug\WcfColegio.pdb
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\WcfColegio.dll.config
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\WcfColegio.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\WcfColegio.pdb
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Entidades.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\EntityFramework.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\EntityFramework.SqlServer.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Microsoft.Practices.Unity.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Transaccion.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Unity.Abstractions.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Unity.Container.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Unity.Interception.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Unity.ServiceLocation.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Unity.Wcf.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Servicio.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Repositorio.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Core.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Contexto.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Entidades.pdb
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Entidades.dll.config
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Transaccion.pdb
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Transaccion.dll.config
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\EntityFramework.xml
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\EntityFramework.SqlServer.xml
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Servicio.pdb
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Servicio.dll.config
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Repositorio.pdb
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Repositorio.dll.config
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Core.pdb
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Core.dll.config
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Contexto.pdb
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\bin\Contexto.dll.config
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\obj\Debug\WcfColegio.csprojAssemblyReference.cache
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\obj\Debug\WcfColegio.csproj.CopyComplete
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\obj\Debug\WcfColegio.dll
+D:\10 Decimo Semestre\Practivas -Pre-profesionales\Apps\ColegioNuevo\WcfColegio\obj\Debug\WcfColegio.pdb
+D:\ColegioNuevo\WcfColegio\bin\WcfColegio.dll.config
+D:\ColegioNuevo\WcfColegio\bin\WcfColegio.dll
+D:\ColegioNuevo\WcfColegio\bin\WcfColegio.pdb
+D:\ColegioNuevo\WcfColegio\bin\Contexto.dll
+D:\ColegioNuevo\WcfColegio\bin\Core.dll
+D:\ColegioNuevo\WcfColegio\bin\Entidades.dll
+D:\ColegioNuevo\WcfColegio\bin\EntityFramework.dll
+D:\ColegioNuevo\WcfColegio\bin\EntityFramework.SqlServer.dll
+D:\ColegioNuevo\WcfColegio\bin\Microsoft.Practices.Unity.Configuration.dll
+D:\ColegioNuevo\WcfColegio\bin\Microsoft.Practices.Unity.dll
+D:\ColegioNuevo\WcfColegio\bin\Repositorio.dll
+D:\ColegioNuevo\WcfColegio\bin\Transaccion.dll
+D:\ColegioNuevo\WcfColegio\bin\Unity.Abstractions.dll
+D:\ColegioNuevo\WcfColegio\bin\Unity.Container.dll
+D:\ColegioNuevo\WcfColegio\bin\Unity.Interception.dll
+D:\ColegioNuevo\WcfColegio\bin\Unity.ServiceLocation.dll
+D:\ColegioNuevo\WcfColegio\bin\Unity.Wcf.dll
+D:\ColegioNuevo\WcfColegio\bin\Servicio.dll
+D:\ColegioNuevo\WcfColegio\bin\Contexto.pdb
+D:\ColegioNuevo\WcfColegio\bin\Contexto.dll.config
+D:\ColegioNuevo\WcfColegio\bin\Core.pdb
+D:\ColegioNuevo\WcfColegio\bin\Core.dll.config
+D:\ColegioNuevo\WcfColegio\bin\Entidades.pdb
+D:\ColegioNuevo\WcfColegio\bin\Entidades.dll.config
+D:\ColegioNuevo\WcfColegio\bin\Repositorio.pdb
+D:\ColegioNuevo\WcfColegio\bin\Repositorio.dll.config
+D:\ColegioNuevo\WcfColegio\bin\Transaccion.pdb
+D:\ColegioNuevo\WcfColegio\bin\Transaccion.dll.config
+D:\ColegioNuevo\WcfColegio\bin\EntityFramework.xml
+D:\ColegioNuevo\WcfColegio\bin\EntityFramework.SqlServer.xml
+D:\ColegioNuevo\WcfColegio\bin\Servicio.pdb
+D:\ColegioNuevo\WcfColegio\bin\Servicio.dll.config
+D:\ColegioNuevo\WcfColegio\obj\Debug\WcfColegio.csproj.AssemblyReference.cache
+D:\ColegioNuevo\WcfColegio\obj\Debug\WcfColegio.csproj.CoreCompileInputs.cache
+D:\ColegioNuevo\WcfColegio\obj\Debug\WcfColegio.csproj.CopyComplete
+D:\ColegioNuevo\WcfColegio\obj\Debug\WcfColegio.dll
+D:\ColegioNuevo\WcfColegio\obj\Debug\WcfColegio.pdb
